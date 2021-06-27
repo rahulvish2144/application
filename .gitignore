@@ -1,0 +1,10 @@
+*.pyc
+*.py.bak
+.idea/*
+nohup.out
+.vscode
+__pycache__
+hrms-app-hcl-venv/*
+resources/*
+sql-scripts/*
+Dockerfile
